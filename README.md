@@ -11,4 +11,4 @@ Face Api Js JavaScript API for face detection and face recognition in the browse
 TensorFlow.js Library for machine learning in JavaScript
 Express js to create a node server
 Jquery, HTML and CSS for web page
-This was my first attempt at building a website from scratch. 
+
